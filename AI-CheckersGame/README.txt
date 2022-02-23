@@ -1,6 +1,5 @@
-note: this project is UNFINISHED
-
 Game-playing program that uses artificial intelligence to play against a human user. 
 This program combines iterative deepening and a minimax search with alpha-beta pruning, 
 along with a heuristic function,to search the game space and decide each of its moves. 
 Implemented with C++ on a simple ASCII interface. 
+note: this is a work in progress!
